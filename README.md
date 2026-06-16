@@ -1,2 +1,25 @@
-# ea9015cf-cloud-infrastructure-awsgcp
-Stop starting from a blank document every single time. Start professional results from day one.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Cloud Infrastructure (Aws/Gcp/Azure) Proposal And Contract Template — fully configured and ready to use - F
+# Cloud Infrastructure (AWS/GCP/Azure) Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm14nh1B9Mw5tu9rKcZu0D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm14nh1B9Mw5tu9rKcZu0D)
+
